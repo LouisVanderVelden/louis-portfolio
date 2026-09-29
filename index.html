@@ -142,7 +142,7 @@ document.querySelector('.scene').addEventListener('click',dismissTopic);const di
 addEventListener('keydown',e=>{if(e.key==='Escape'){dismissTopic();dismissGuides.forEach(fn=>fn())}});
 if(new URLSearchParams(location.search).has('return')){opening=false;clearTimeout(entryTimer);cancelAnimationFrame(autoFrame);scrollTo(0,Number(sessionStorage.getItem('portfolio-return-y')||0));syncScroll()}
 const requestedCase=new URLSearchParams(location.search).get('case');if(requestedCase){opening=false;clearTimeout(entryTimer);cancelAnimationFrame(autoFrame);document.querySelector('#work').scrollIntoView();const chosen=projects.find(p=>p[0]===requestedCase);if(chosen)openProject(chosen)}
-</script></html>
+</script><script src="assets/ui-arrows.js" defer></script></html>
 
 
 
