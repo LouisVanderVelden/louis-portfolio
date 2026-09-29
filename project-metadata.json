@@ -1,0 +1,648 @@
+{
+  "years": {
+    "Numo": "2026",
+    "Soda Rossa": "2025",
+    "AudioVault": "2024",
+    "eecOloo": "2024",
+    "Woggle": "2024",
+    "Multami": "2024",
+    "Biyou": "2023",
+    "StackaSnack": "2022",
+    "Yhellow": "2019–present",
+    "Babbelende Buren": "2025"
+  },
+  "capabilities": {
+    "Yhellow": [
+      "Brand",
+      "Strategy",
+      "Business",
+      "Venture Building",
+      "Manufacturing",
+      "Prototyping"
+    ],
+    "Numo": [
+      "Research",
+      "Ideation",
+      "CAD",
+      "Prototyping",
+      "Testing",
+      "Electronics",
+      "UX",
+      "UI",
+      "Interaction",
+      "Systems",
+      "Strategy"
+    ],
+    "AudioVault": [
+      "CAD",
+      "Visualisation",
+      "Prototyping",
+      "Testing",
+      "DFM",
+      "Electronics",
+      "Interaction"
+    ],
+    "eecOloo": [
+      "Research",
+      "Ideation",
+      "CAD",
+      "Visualisation",
+      "Prototyping",
+      "Testing",
+      "Manufacturing",
+      "Systems",
+      "Strategy"
+    ],
+    "Woggle": [
+      "Research",
+      "Ideation",
+      "Sketching",
+      "CAD",
+      "Visualisation",
+      "Prototyping",
+      "Testing",
+      "UX",
+      "Interaction"
+    ],
+    "Biyou": [
+      "Research",
+      "Ideation",
+      "Sketching",
+      "Prototyping",
+      "Testing",
+      "CAD",
+      "Visualisation",
+      "Brand"
+    ],
+    "Multami": [
+      "CAD",
+      "Visualisation",
+      "Prototyping",
+      "Testing",
+      "DFM",
+      "DFA",
+      "Manufacturing",
+      "Systems"
+    ],
+    "Soda Rossa": [
+      "Research",
+      "Ideation",
+      "Sketching",
+      "CAD",
+      "Visualisation",
+      "Brand"
+    ],
+    "StackaSnack": [
+      "Research",
+      "Ideation",
+      "Sketching",
+      "Prototyping",
+      "Testing",
+      "DFM",
+      "Manufacturing"
+    ],
+    "Babbelende Buren": [
+      "Research",
+      "Ideation",
+      "Prototyping",
+      "Testing",
+      "UX",
+      "UI",
+      "Interaction",
+      "Systems"
+    ]
+  },
+  "status": "Dates confirmed by Louis; capabilities from Project Matrix v1.0, pending case evidence.",
+  "cases": {
+    "numo": {
+      "name": "NUMO",
+      "tagline": "Healthier hybrid work, one small interaction at a time.",
+      "description": "NUMO is a physical-digital workspace companion that helps hybrid workers build healthier movement into the workday through simple, tangible interactions.",
+      "project": "Master’s Project — Product Development",
+      "role": "Product Designer",
+      "year": "2026",
+      "themes": [
+        "Product",
+        "Experience",
+        "Strategy"
+      ],
+      "capabilities": [
+        "Research",
+        "Ideation",
+        "CAD",
+        "Prototyping",
+        "Testing",
+        "Electronics",
+        "UX",
+        "UI",
+        "Interaction",
+        "Systems",
+        "Strategy"
+      ],
+      "prototype": "https://numo-posture.lovable.app/",
+      "thesis": "assets/numo/NUMO-thesis.pdf",
+      "video": "https://www.youtube-nocookie.com/embed/dD4wX2JGhgs",
+      "next": "soda-rossa",
+      "previous": "caply"
+    },
+    "yhellow": {
+      "name": "Yhellow",
+      "year": "2019–present",
+      "role": "Founder / developer",
+      "type": "Personal project / entrepreneurship",
+      "status": "Ongoing venture",
+      "sections": [
+        {
+          "title": "Challenge",
+          "copy": "Yhellow started from a simple question: how can discarded materials become desirable products with a second life? The project explores how upcycling, hands-on making and storytelling can turn waste into functional bags that people genuinely want to use and keep."
+        },
+        {
+          "title": "Process",
+          "copy": "The project began by working with the materials that were already available: discarded tarpaulin, leftover fabric, reused straps and other recovered components. Instead of designing from a blank sheet, the material itself shaped the outcome. Through making, testing and refining, the first prototypes evolved into a clearer product language, a growing collection and eventually a structured small venture."
+        },
+        {
+          "title": "Result",
+          "copy": "Yhellow grew beyond a one-off product into a live upcycling venture. What started as a handmade experiment became a real business with a product range, collaborations and a clear brand identity. The result is a collection of functional bags that each carry their own story while proving that discarded materials can become durable, desirable products."
+        }
+      ],
+      "page": "yhellow.html",
+      "previous": "stackasnack",
+      "next": "bundl"
+    },
+    "audiovault": {
+      "name": "AudioVault",
+      "metadata": {
+        "Role": "Product Developer",
+        "Type": "Duo project",
+        "Year": "2024",
+        "Duration": "3 months",
+        "Themes": "Product · Experience",
+        "Capabilities": "CAD · Visualisation · Prototyping · Testing · DFM · Electronics · Interaction",
+        "Focus": "Protection · Interaction · Charging · Audio · Manufacturability"
+      },
+      "sections": [
+        {
+          "title": "Challenge",
+          "copy": "How can a protective phone container do more than simply hide a device? AudioVault started with a protection brief, but evolved into an object that also had to charge a phone, play sound and move between storage and display. The challenge was integrating these functions into one compact product without making it feel overly technical or complicated to use."
+        },
+        {
+          "title": "Result",
+          "copy": "AudioVault became a fully functioning prototype built around three rotating parts. The final design combines protection, wireless charging and integrated audio with a physical interaction that lets the phone move between storage and display. Building the prototype forced the construction, electronics and assembly to work physically rather than only in a render."
+        }
+      ],
+      "assets": [
+        "01_hero_AUDIO VAULT.webp",
+        "02_presentatie.webp",
+        "03_presentatie.webp",
+        "04_presentatie.webp",
+        "05_prototype.webp",
+        "06_prototype.webp",
+        "07_prototype1.webp",
+        "08_prototype2.webp",
+        "09_prototype3.webp",
+        "10_prototype4.webp",
+        "11_prototype5.webp",
+        "12_prototype6.webp",
+        "LOGO_AUDIOVAULT.webp"
+      ],
+      "page": "audiovault.html",
+      "previous": "babbelende-buren",
+      "next": "eecoloo"
+    },
+    "soda-rossa": {
+      "name": "Soda Rossa",
+      "year": "2025",
+      "page": "soda-rossa.html",
+      "copy": [
+        "How can Ferrari’s identity live beyond the car? Soda Rossa explores how the brand’s sense of speed, prestige and sculptural tension could be translated into a premium soda maker—without simply copying automotive forms.",
+        "The project moved from brand DNA to product language. Ferrari’s forms, materials and emotional qualities were first decoded, then translated through sketching and digital exploration into 3D concepts. Each iteration refined the proportions, surfaces and details until the product felt recognisably Ferrari while still functioning as a believable home appliance.",
+        "Soda Rossa became a premium carbonator defined by a proud vertical stance, flowing surfaces and sharper functional details. Glossy red surfaces, dark internal elements and repeated vent-like features bring Ferrari’s character into a domestic product while keeping its function immediately understandable."
+      ],
+      "previous": "numo",
+      "next": "babbelende-buren"
+    },
+    "woggle": {
+      "name": "Woggle",
+      "project": "Duo project",
+      "year": "Bachelor 1",
+      "role": "Product Designer / Developer",
+      "tagline": "A playful camera toy that captures moments without interrupting play.",
+      "description": "Woggle is a camera toy designed to make capturing photos and videos part of the play experience itself.",
+      "themes": [
+        "Product",
+        "Experience"
+      ],
+      "capabilities": [
+        "Research",
+        "Ideation",
+        "Sketching",
+        "CAD",
+        "Visualisation",
+        "Prototyping",
+        "Testing",
+        "UX",
+        "Interaction"
+      ],
+      "video": "https://youtu.be/VHJ7XCd4s7c",
+      "sections": [
+        [
+          "Challenge",
+          "Children naturally move, explore and imagine while they play. Taking a photo usually interrupts that flow. Woggle explores how a camera could become part of the play itself: intuitive enough to understand quickly, but expressive enough to feel like a toy rather than another digital device.",
+          [
+            "02_woggle"
+          ]
+        ],
+        [
+          "Process",
+          "The project started by observing how children interact with toys and translated those behaviours into form and interaction. Sketching, quick prototypes and usability testing were used to explore movement, grip and control before the concept was refined through CAD, visualisation and product identity.",
+          [
+            "03_woggle_process"
+          ]
+        ],
+        [
+          "Result",
+          "Woggle combines camera functionality with physical movement and simple feedback. A joystick controls capturing, recording and zooming, while the flexible body, display and light feedback make the interaction immediate and playful. The result is a camera designed to capture spontaneous moments without pulling children out of play.",
+          [
+            "04_Exploded view",
+            "05_product render"
+          ]
+        ]
+      ],
+      "page": "woggle.html",
+      "additionalMedia": [
+        "assets/woggle/interaction-new.webp",
+        "assets/interaction/3.woggle.webp"
+      ],
+      "previous": "eecoloo",
+      "next": "multami"
+    },
+    "multami": {
+      "name": "Multami",
+      "project": "Design for assembly",
+      "year": "2024",
+      "role": "Product Designer / Developer",
+      "description": "A redesign focused on simplifying assembly and improving how the product is built.",
+      "themes": [
+        "Product",
+        "Strategy"
+      ],
+      "capabilities": [
+        "CAD",
+        "Visualisation",
+        "Prototyping",
+        "Testing",
+        "DFM",
+        "DFA",
+        "Manufacturing",
+        "Systems"
+      ],
+      "sections": [
+        [
+          "Challenge",
+          "The original product worked, but its assembly involved too many separate parts and operations. The challenge was to rethink the construction so it could be assembled more logically, with fewer unnecessary steps, while preserving the product’s function and overall form.",
+          [
+            "ORIGINEEL",
+            "ORIGINELE_montagevolgorde 1",
+            "ORIGINELE_montagevolgorde 2",
+            "ORIGINELE_monatgevolgorde3"
+          ]
+        ],
+        [
+          "Result",
+          "The redesign reorganised the product around a clearer assembly sequence and more integrated parts. By designing with manufacturing and assembly in mind, the construction became simpler and easier to understand while keeping the same core product idea.",
+          [
+            "NIEUW",
+            "NIEUWE montagevolgorde 1",
+            "NIEUWE montagevolgorde 2",
+            "NIEUWE montagevolgorde 3"
+          ]
+        ]
+      ],
+      "page": "multami.html",
+      "previous": "woggle",
+      "next": "biyou"
+    },
+    "biyou": {
+      "name": "Biyou",
+      "project": "Ergonomic tool family",
+      "year": "2023",
+      "role": "Product Designer",
+      "tagline": "One family, shaped around the way we use tools.",
+      "description": "Biyou explores how ergonomics, interaction and a shared visual language can bring different hand tools together as one coherent product family.",
+      "themes": [
+        "Product",
+        "Experience"
+      ],
+      "capabilities": [
+        "Research",
+        "Ideation",
+        "Sketching",
+        "Prototyping",
+        "Testing",
+        "CAD",
+        "Visualisation",
+        "Brand"
+      ],
+      "hero": "1_BIYOU_FAMILY HERO",
+      "logo": "BIYOU_Logo",
+      "sections": [
+        {
+          "name": "Challenge & Process",
+          "copy": "How can different tools feel like one family while still fitting the way each one is actually used? The project started by exploring user needs, grip and interaction, then moved through sketching, ergonomic prototypes and testing. These insights were used to refine the proportions, handle geometry and visual details into one consistent design language.",
+          "images": [
+            "2_BIYOU_sketches",
+            "3_BIYOU_prototype",
+            "4_BIYOU_test",
+            "5.BIYOU_finalise"
+          ],
+          "labels": [
+            "Explore",
+            "Prototype",
+            "Test",
+            "Refine"
+          ]
+        },
+        {
+          "name": "Result",
+          "copy": "The final result is a coherent family of tools built around a shared ergonomic and visual language. Each product keeps the characteristics needed for its own use, while recurring forms, materials and details make the collection read as one recognisable system.",
+          "images": [
+            "BIYOU_final",
+            "BIYOU_final2"
+          ]
+        }
+      ],
+      "page": "biyou.html",
+      "resultMedia": [
+        "assets/biyou/pliers-use.webp",
+        "assets/biyou/BIYOU_final.webp",
+        "assets/biyou/BIYOU_final2.webp"
+      ],
+      "previous": "multami",
+      "next": "stackasnack"
+    },
+    "stackasnack": {
+      "name": "StackaSnack",
+      "project": "Engineering / vacuum forming",
+      "year": "2022",
+      "role": "Product Designer / Developer",
+      "description": "A modular picnic set designed around stacking, sharing and vacuum-formed production.",
+      "themes": [
+        "Product",
+        "Experience"
+      ],
+      "capabilities": [
+        "Research",
+        "Ideation",
+        "Sketching",
+        "Prototyping",
+        "Testing",
+        "DFM",
+        "Manufacturing"
+      ],
+      "hero": "1_StackaSnack",
+      "sections": [
+        {
+          "name": "Challenge",
+          "copy": "How can a picnic set become easier to carry, use and share without adding unnecessary complexity? StackaSnack explored a modular solution in which the different parts stack together into one compact system, while still working as individual plates and serving elements once unpacked.",
+          "images": []
+        },
+        {
+          "name": "Designed for vacuum forming",
+          "copy": "Because the project was also an engineering assignment, the design had to work within the constraints of vacuum forming. Wall angles, part depth, radii, release direction and material behaviour shaped the geometry from the start. The form therefore developed together with the manufacturing process rather than being designed first and engineered afterwards.",
+          "images": [
+            "2_vacuumforming"
+          ]
+        },
+        {
+          "name": "Process",
+          "copy": "The concept was developed through drawing, low-fidelity models and progressively more realistic prototypes. Each step was used to test the stacking logic, proportions and manufacturability before moving to the final vacuum-formed prototype and real-use testing.",
+          "images": [
+            "3.drawing",
+            "4.Lo-fi prototype",
+            "5.vacuumforming",
+            "6.Hi-fi prototype"
+          ],
+          "labels": [
+            "Draw",
+            "Model",
+            "Form",
+            "Refine"
+          ]
+        },
+        {
+          "name": "Result",
+          "copy": "The final prototype combines the different elements into one compact picnic system and was tested in the context it was designed for. These tests helped evaluate how people unpacked, shared, stacked and handled the set, turning the final prototype into both a product outcome and a validation of the design decisions.",
+          "images": [
+            "7.test1",
+            "8.test2",
+            "9.test3",
+            "10.test4"
+          ],
+          "gallery": true
+        }
+      ],
+      "page": "stackasnack.html",
+      "previous": "biyou",
+      "next": "yhellow"
+    },
+    "eecoloo": {
+      "name": "eecOloo",
+      "project": "Bachelor thesis — Product Development",
+      "role": "Product Designer",
+      "type": "Solo project",
+      "duration": "3 months",
+      "year": "2024",
+      "themes": [
+        "Product",
+        "Experience",
+        "Strategy"
+      ],
+      "capabilities": [
+        "Research",
+        "Ideation",
+        "CAD",
+        "Visualisation",
+        "Prototyping",
+        "Testing",
+        "Manufacturing",
+        "Systems",
+        "Strategy"
+      ],
+      "description": "eecOloo is a modular composting toilet system for festivals, developed around the needs of users, festival staff, transporters and the composting process.",
+      "sections": [
+        {
+          "name": "Challenge",
+          "copy": "A festival toilet has to work for far more people than the person using it. Visitors need a clean and intuitive experience, while organisers, cleaners, transporters and waste handlers need a system that is easy to move, install, maintain and process afterwards. The challenge was therefore to design a composting toilet around the entire festival lifecycle rather than treating it as a standalone product.",
+          "images": [
+            "2",
+            "3",
+            "4"
+          ],
+          "labels": [
+            "Logistics",
+            "Usability",
+            "Processing"
+          ]
+        },
+        {
+          "name": "Lifecycle",
+          "copy": "The concept was developed around six stages, each involving different stakeholders and different requirements. The cabin changes from a compact transport unit into an operational toilet and finally into a system that can be disassembled for cleaning and compost processing. Designing each stage together created one continuous system rather than a collection of separate solutions.",
+          "images": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "labels": [
+            "Transport",
+            "Install",
+            "Use",
+            "Maintain",
+            "Dismount",
+            "Compost"
+          ]
+        },
+        {
+          "name": "Technical system",
+          "copy": "Modularity became the core of the technical solution. A steel frame connects the transport, user and processing functions in one structure. Moving and locking components allow the compact unit to open into a full toilet, while the waste containers and service components remain accessible from the rear for maintenance and processing.",
+          "images": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16"
+          ],
+          "labels": [
+            "Pull up",
+            "Pull out",
+            "Position",
+            "User module",
+            "Locking system",
+            "Sawdust dispenser"
+          ]
+        },
+        {
+          "name": "Mechanical by design",
+          "copy": "To reduce responsibility for the user, I developed a semi-automatic sawdust dispenser. A single push mechanically releases a measured amount of sawdust into the toilet, helping cover the waste while keeping the interaction simple and independent of electronics.",
+          "images": []
+        },
+        {
+          "name": "Prototypes",
+          "copy": "The modular architecture was tested through physical models. A scale prototype helped evaluate how the cabin transforms between compact and operational states, while a separate working prototype was used to test the mechanical sawdust dispenser.",
+          "images": [
+            "17_prototype",
+            "18_prototype",
+            "19_prototype"
+          ]
+        }
+      ],
+      "page": "eecoloo.html",
+      "previous": "audiovault",
+      "next": "woggle"
+    },
+    "babbelende-buren": {
+      "name": "Babbelende Buren",
+      "tagline": "Turning neighbourhood research into a tangible product-service system.",
+      "description": "Babbelende Buren is a product-service system developed through field research and translated into a physical intervention, prototype and supporting digital experience.",
+      "project": "Product Service System Design",
+      "year": "2025",
+      "role": "Researcher · Designer",
+      "type": "Team project",
+      "capabilities": [
+        "Research",
+        "Ideation",
+        "Prototyping",
+        "Testing",
+        "UX",
+        "UI",
+        "Interaction",
+        "Systems"
+      ],
+      "page": "babbelende-buren.html",
+      "sections": [
+        {
+          "copy": "The assignment was to design a product-service system grounded in a real context rather than starting from a predetermined solution. Through field research and interviews, we explored the challenges people face while integrating into transitional neighbourhoods. The research eventually focused our challenge around bridging the knowledge gap: helping people access the information, organisations and support they need to participate in society.",
+          "image": "2.research",
+          "video": "bta672bqO1E"
+        },
+        {
+          "copy": "We translated the research into Babbelende Buren: a product-service system that connects people with the right information and support through physical neighbourhood touchpoints, shared activities and a supporting app. The system brings different services together within one connected experience rather than treating them as separate solutions.",
+          "image": "1.solution",
+          "video": "Clu5wv-SRJ4"
+        },
+        {
+          "image": "3.research"
+        },
+        {
+          "copy": "The app extends the system beyond the physical touchpoint, helping users discover activities, create a profile, follow their integration journey and stay connected with others.",
+          "image": "4.application"
+        },
+        {
+          "image": "5.babbelende buren"
+        }
+      ],
+      "previous": "soda-rossa",
+      "next": "audiovault"
+    },
+    "bundl": {
+      "name": "Bundl",
+      "tagline": "Building, testing and scaling new ventures.",
+      "description": "Professional experience in corporate venture building, working across research, validation, product strategy, go-to-market and operations.",
+      "role": "Venture Architect",
+      "type": "Professional experience",
+      "hero": "assets/bundl/0_heroleft_bundl.webp",
+      "copy": [
+        "At Bundl, I contributed to venture-building projects for three major international corporate clients. Because much of the work is confidential, this case focuses on how I contributed rather than on the ventures themselves.",
+        "My work spanned different stages of the innovation process: from research, ideation and concept development to validation, UX, go-to-market, operations and growth. Working in fast-moving teams taught me how to connect user insight, strategic thinking and execution — turning early opportunities into clearer propositions, testing assumptions and helping ventures move toward scalable solutions."
+      ],
+      "quotes": [
+        [
+          "Really enjoyed working with Louis during his internship at Bundl on an innovation project for a major client. He picked things up fast, brought a lot of positive energy to the team, and wasn't afraid to challenge ideas or contribute in client discussions. On top of that, he's simply a great person to work with. I'd happily recommend Louis for roles in venture building, product development, or strategic design.",
+          "Thomas Laenens"
+        ],
+        [
+          "Louis consistently delivered reliable and high-quality work. He combined a hands-on mindset with analytical thinking, adapted quickly to new responsibilities, and showed strong motivation and professionalism throughout the internship.",
+          "Thomas Châtel"
+        ]
+      ],
+      "year": "2025–2026",
+      "cta": "https://www.bundl.com/",
+      "previous": "yhellow",
+      "next": "caply"
+    },
+    "caply": {
+      "name": "Caply",
+      "tagline": "Building an MVP for an investment platform.",
+      "description": "Building a platform to lower the threshold of private equity for young investors.",
+      "role": "Development & Design",
+      "type": "Personal project",
+      "year": "2025",
+      "hero": "assets/caply/0_heroright_caply.webp",
+      "cta": "https://caply.be/",
+      "copy": [
+        "Caply is an early-stage MVP exploring whether private equity could become a compelling proposition for younger, more passive investors with a long-term perspective. Rather than investing heavily in a finished platform from the start, the goal is to get a working proposition online quickly, measure interest and use real feedback to determine whether the business case is worth developing further.",
+        "I organised a workshop to understand what this audience would expect from an investment platform and used those insights to help shape the initial user experience and interface. From there, I contributed to both the design and development of the MVP, keeping the experience intentionally focused on what was necessary to test the core proposition."
+      ],
+      "mockup": "assets/caply/3.caply.webp",
+      "previous": "bundl",
+      "next": "numo"
+    }
+  },
+  "navigationOrder": [
+    "numo",
+    "soda-rossa",
+    "babbelende-buren",
+    "audiovault",
+    "eecoloo",
+    "woggle",
+    "multami",
+    "biyou",
+    "stackasnack",
+    "yhellow",
+    "bundl",
+    "caply"
+  ]
+}
